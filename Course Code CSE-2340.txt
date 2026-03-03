@@ -1,0 +1,6 @@
+Course Code: CSE-2340
+Course Name: Software Development-1
+Name: Mohammed Ala Uddin
+Matric ID: C251038
+Section: 3BM
+Semester: 3
