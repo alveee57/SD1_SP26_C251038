@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
-public class p1 {
+public class p4 {
     public static void main(String[] args) {
         System.out.println("Enter 3 Numbers: ");
         Scanner s = new Scanner(System.in);
